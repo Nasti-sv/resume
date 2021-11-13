@@ -46,6 +46,7 @@ body {
 .resume .resume_left .resume_profile img {
   width: 85%;
   height: 95%;
+  position : relative
 }
 
 .resume .resume_left .resume_content {
