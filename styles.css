@@ -47,6 +47,8 @@ body {
   width: 85%;
   height: 95%;
   position : relative
+  float: left;
+  margin: 0 0 5px 5px; 
 }
 
 .resume .resume_left .resume_content {
