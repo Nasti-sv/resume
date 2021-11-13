@@ -197,7 +197,7 @@ body {
   width: 6px;
   height: 6px;
   border-radius: 50%;
-  border: 2px solid #0bb5f4;
+  border: 2px solid #ad7878;
 }
 
 .resume .resume_right .resume_work ul li:after,
@@ -222,7 +222,7 @@ body {
   border: 2px solid #F7E0C1;
   border-radius: 50%;
   position: relative;
-  color: #0bb5f4;
+  color: #ad7878;
 }
 
 .resume .resume_right .resume_hobby ul li i {
