@@ -200,17 +200,6 @@ body {
   border: 2px solid #ad7878;
 }
 
-.resume .resume_right .resume_work ul li:after,
-.resume .resume_right .resume_education ul li:after {
-  content: "";
-  position: absolute;
-  top: 14px;
-  left: -21px;
-  width: 2px;
-  height: 115px;
-  background: #ad7878;
-}
-
 .resume .resume_right .resume_hobby ul {
   display: flex;
   justify-content: space-between;
