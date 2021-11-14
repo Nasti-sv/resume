@@ -35,6 +35,7 @@ body {
 
 .resume .resume_left {
   float:left;
+  width:300px;
   width: 280px;
   background: #F7E0C1;
 }
@@ -151,6 +152,7 @@ body {
 
 .resume .resume_right {
   width: 520px;
+  width:300px;
   background: #fff;
   padding: 25px;
   float:right;
