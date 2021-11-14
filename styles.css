@@ -208,7 +208,7 @@ body {
   content: "";
   position: absolute;
   top: 5px;
-  left: -25px;
+  left: 25px;
   width: 6px;
   height: 6px;
   border-radius: 50%;
