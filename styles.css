@@ -179,7 +179,6 @@ body {
 .resume .resume_right .resume_work ul,
 .resume .resume_right .resume_education ul {
   padding-left: 30px;
-  line-height: 0.9em;
   overflow: hidden;
 }
 
@@ -204,7 +203,7 @@ body {
   align-items: center;
 }
 .resume .resume_right ul li .info {
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 }
 
 .resume .resume_right ul li:last-child .info {
