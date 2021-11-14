@@ -24,7 +24,7 @@ body {
 .boldname {
   font-weight: 700;
   font-size: 25px;
-  padding-left: 80px;
+  text-align:  center;
   text-transform: uppercase;
 }
 
