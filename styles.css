@@ -96,6 +96,7 @@ body {
 
 .resume .resume_left .resume_education ul {
   padding-left: 100px;
+  overflow: hidden;
 }
 
 .resume .resume_left .resume_skills ul li .resume_ed {
