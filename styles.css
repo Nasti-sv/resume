@@ -94,30 +94,12 @@ body {
   position: relative;
 }
 
-
-
-
-.resume .resume_left .resume_education ul li:before {
-  content: "";
-  position: absolute;
-  top: 5px;
-  left: -25px;
-  width: 6px;
-  height: 6px;
-  border-radius: 50%;
-  border: 2px solid #ad7878;
-  line-height: 0.9em;
+.resume .resume_left .resume_education ul {
+  padding-left: 30px;
+  overflow: hidden;
 }
 
-.resume .resume_left .resume_education ul li:after {
-  content: "";
-  position: absolute;
-  top: 14px;
-  left: -21px;
-  width: 2px;
-  height: 115px;
-  background: #0bb5f4;
-}
+
 
 
 .resume .resume_left .resume_skills ul li .resume_ed {
