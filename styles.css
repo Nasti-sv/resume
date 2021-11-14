@@ -93,6 +93,11 @@ body {
   font-size: 15px;
   position: relative;
 }
+
+.resume .resume_left .resume_education ul {
+  padding-left: 35px;
+}
+
 .resume .resume_left .resume_skills ul li .resume_ed {
   width: 25%;
 }
