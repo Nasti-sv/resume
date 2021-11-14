@@ -112,6 +112,17 @@ body {
   line-height: 0.9em;
 }
 
+.resume .resume_left .resume_education ul li:after {
+  content: "";
+  position: absolute;
+  top: 14px;
+  left: -21px;
+  width: 2px;
+  height: 115px;
+  background: #0bb5f4;
+}
+
+
 .resume .resume_left .resume_skills ul li .resume_ed {
   width: 25%;
 }
