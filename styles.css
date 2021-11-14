@@ -102,6 +102,7 @@ body {
 
 .resume .resume_left ul li .resume_ed {
  margin-left: 5px;
+ weight: 5px;
 }
 
 .resume .icon i,
