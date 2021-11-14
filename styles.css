@@ -48,8 +48,7 @@ body {
 .resume .resume_left .resume_profile img {
   width: 200px;
   height: 200px;
-  position : relative
-  float: left;
+  position : relative;
   margin-top: 15px; 
   margin-left: 20px;
 }
@@ -152,10 +151,8 @@ body {
 
 .resume .resume_right {
   width: 520px;
-  width:300px;
   background: #fff;
   padding: 25px;
-  float:right;
 }
 
 .resume .resume_right .bold {
