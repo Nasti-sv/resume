@@ -93,11 +93,6 @@ body {
   font-size: 15px;
   position: relative;
 }
-
-.resume .resume_left .resume_education ul {
-  padding-left: 35px;
-}
-
 .resume .resume_left .resume_skills ul li .resume_ed {
   width: 25%;
 }
@@ -173,6 +168,7 @@ body {
   align-items: center;
 }
 .resume .resume_right ul li .info {
+  margin-bottom: 20px;
   margin-bottom: 10px;
 }
 .resume .resume_right ul li:last-child .info {
@@ -190,7 +186,6 @@ body {
   border: 2px solid #ad7878;
   line-height: 0.9em;
 }
-
 .resume .resume_right .resume_hobby ul {
   display: flex;
   justify-content: space-between;
@@ -215,7 +210,6 @@ body {
   height: 5px;
   background: #0bb5f4;
 }
-
 .resume .resume_right .resume_hobby ul li:last-child:before {
   display: none;
 }
