@@ -100,6 +100,12 @@ body {
   position: relative;
 }
 
+.resume .resume_left ul li .resume_ed {
+ width: 25px;
+ height: 25px;
+ margin-right: 5px;
+}
+
 .resume .icon i,
 .resume .resume_right .resume_hobby ul li i {
   position: absolute;
