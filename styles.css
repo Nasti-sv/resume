@@ -100,9 +100,8 @@ body {
   position: relative;
 }
 
-.resume .resume_left ul li .resume_ed {
- padding-left: 15px;
- weight: 100px;
+.resume .resume_left .resume_skills ul li .resume_ed {
+  width: 25%;
 }
 
 .resume .icon i,
