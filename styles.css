@@ -94,10 +94,7 @@ body {
   position: relative;
 }
 
-.resume .resume_left .resume_education ul {
-  padding-left: 30px;
-  overflow: hidden;
-}
+
 
 
 .resume .resume_left .resume_education ul li:before {
