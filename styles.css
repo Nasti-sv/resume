@@ -100,6 +100,22 @@ body {
   margin-bottom: 0;
 }
 
+.resume .resume_left .resume_education ul {
+  padding-left: 30px;
+  overflow: hidden;
+}
+
+.resume .resume_left .resume_education ul li:before {
+  content: "";
+  position: absolute;
+  top: 5px;
+  left: -25px;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  border: 2px solid #ad7878;
+}
+
 .resume .resume_left ul li .icon {
   width: 25px;
   height: 25px;
