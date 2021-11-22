@@ -42,6 +42,7 @@ body {
   height: auto;
   display: flex;
   margin: 50px auto;
+  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
 }
 .resume .resume_left {
   float:left;
