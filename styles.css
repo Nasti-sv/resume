@@ -41,7 +41,6 @@ body {
   width: 800px;
   height: auto;
   display: flex;
-  margin: 40px auto;
   box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
 }
 .resume .resume_left {
