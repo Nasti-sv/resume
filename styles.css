@@ -151,9 +151,9 @@ body {
   margin-bottom: 3px;
 }
 .resume .resume_right {
-  width: 0px;
+  width: 520px;
   background: #fff;
-  padding: 25px;
+  padding: 5px;
 }
 .resume .resume_right .bold {
   color: #000000
