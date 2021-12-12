@@ -26,7 +26,8 @@ body {
 .bold_skill {
   font-weight: 700;
   font-size: 16px;
-  text-align:  center;;
+  text-align:  center;
+  text-transform: uppercase;
 }
 .semi-bold {
   font-weight: 500;
