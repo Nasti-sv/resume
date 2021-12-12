@@ -23,6 +23,11 @@ body {
   text-align:  center;
   text-transform: uppercase;
 }
+.bold_skill {
+  font-weight: 700;
+  font-size: 16px;
+  text-align:  center;;
+}
 .semi-bold {
   font-weight: 500;
   font-size: 16px;
@@ -33,6 +38,7 @@ body {
   font-size: 16px;
   text-align:  center;;
 }
+
 .regul {
   font-weight: 300;
   font-size: 13px;
