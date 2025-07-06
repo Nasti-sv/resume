@@ -58,16 +58,18 @@ body {
   width: 280px;
   background: #F7E0C1;
 }
+
 .resume .resume_left .resume_profile {
-  width: 100%;
-  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px 0;
 }
 .resume .resume_left .resume_profile img {
-  width: 200px;
+  width: 200px; /* or whatever size you prefer */
   height: 200px;
-  text-align: center;
-  margin-left: 40px;
-  margin-top: 20px;
+  border-radius: 50%;
+  object-fit: cover;
 }
 .resume .resume_left .resume_content {
   padding: 0 25px;
